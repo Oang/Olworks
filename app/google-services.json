@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866453941982",
+    "firebase_url": "https://work-bbc0f.firebaseio.com",
+    "project_id": "work-bbc0f",
+    "storage_bucket": "work-bbc0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866453941982:android:eb79228c1348d9a0165c4f",
+        "android_client_info": {
+          "package_name": "com.example.olworks.olworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866453941982-6mv6jc8dl2n8eh9tf41jeiqr4nvgp926.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0gXsiuEBvC1m4W1WH3CljCqYTaPZo5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866453941982-6mv6jc8dl2n8eh9tf41jeiqr4nvgp926.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

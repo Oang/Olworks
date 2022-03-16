@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Olworks</string>
+    <string name="title_activity_employer_tab_activity">Employer_tab_activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="category">
+        <item>Choose Category</item>
+        <item>Cleaning</item>
+        <item>Chef &amp; Cook</item>
+        <item>Construction</item>
+        <item>Waiter/Waitress</item>
+        <item>Beauty &amp; Wellness</item>
+        <item>Driver</item>
+        <item>Education</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_employee_tab_activity">Employee_tab_activity</string>
+
+    <string-array name="duration">
+        <item>Choose Duration</item>
+        <item>1 Day</item>
+        <item>3 Days</item>
+        <item>A Week</item>
+        <item>A Month</item>
+    </string-array>
+</resources>
